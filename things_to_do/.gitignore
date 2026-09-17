@@ -1,0 +1,9 @@
+# Local runtime files — never commit the personal task database
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/

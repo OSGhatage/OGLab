@@ -1,0 +1,2 @@
+# The SQLite database (tasks.db) is created here automatically on first run.
+# It is intentionally excluded from Git via .gitignore.
